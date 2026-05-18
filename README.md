@@ -1,0 +1,1 @@
+# scaniq-privacy-policy
