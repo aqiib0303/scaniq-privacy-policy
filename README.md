@@ -1,8 +1,8 @@
 # Privacy Policy for ScanIQ
 
 **Last updated:** May 18, 2026  
-**Developer:** Aqira  
-**Contact:** [your email here]  
+**Developer:** Aqib 
+**Contact:** [aqiibmalik20@gmail.com]  
 **App Package:** com.aqira.scaniq
 
 ---
