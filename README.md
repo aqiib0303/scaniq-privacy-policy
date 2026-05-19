@@ -129,8 +129,8 @@ by uninstalling the app.
 If you have any questions about this privacy policy 
 please contact us at:
 
-**Email:** [your email here]  
-**GitHub:** [your github profile link here]
+**Email:** [aqiibmalik20@gmail.com]  
+**GitHub:** [(https://github.com/aqiib0303)]
 
 ---
 
